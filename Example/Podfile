@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NativeVideoPlayer_Example' do
+  pod 'NativeVideoPlayer', :path => '../'
+
+  target 'NativeVideoPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
