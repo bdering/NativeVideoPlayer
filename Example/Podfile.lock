@@ -1,0 +1,16 @@
+PODS:
+  - NativeVideoPlayer (0.1.0)
+
+DEPENDENCIES:
+  - NativeVideoPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  NativeVideoPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NativeVideoPlayer: 1e86aaa3d2916471463cdf80c408015bdc27d289
+
+PODFILE CHECKSUM: f3ea6b0abc5c540756fe8f818e17b71f98341aba
+
+COCOAPODS: 1.2.1

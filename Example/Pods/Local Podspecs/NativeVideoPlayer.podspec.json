@@ -1,0 +1,22 @@
+{
+  "name": "NativeVideoPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of NativeVideoPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dbrsdbn@googlemail.com/NativeVideoPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dbrsdbn@googlemail.com": "dbrsdbn@googlemail.com"
+  },
+  "source": {
+    "git": "https://github.com/dbrsdbn@googlemail.com/NativeVideoPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NativeVideoPlayer/Classes/**/*"
+}
